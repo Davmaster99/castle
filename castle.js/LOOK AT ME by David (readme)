@@ -1,0 +1,22 @@
+David COSTA DOS SANTOS 
+
+
+1 step: node index.js
+
+Fist step is to get the intel of the restaurants
+
+2 step: node index2.js
+
+Second one, allow us to catch the link and the rest of the missing data
+
+3 step: node Relais_Chateaux.js
+
+With the elp of Peppernet package we Emulate a navigator to find the information we want because the relaischateau website is different of Michelin
+
+4 step: node Fusion.js
+
+Fusion give us the final list of Hotels with michelin stars restaurant by looking in the JSON created by the Index2.
+
+5 step: lunch with react the App.js
+
+(I know the visual sucks but i've underestimated my time to finish de scraping part)

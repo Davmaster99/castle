@@ -1,0 +1,353 @@
+[{
+    "hotel Name ": "Anne de Bretagne",
+    "hotel Price": "72.50",
+    "Resaurant": {
+        "name": "Anne de Bretagne",
+        "category": "Cuisine Moderne, Créative, Gastronomique, Poissons, Fruits de Mer",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2ciults/anne-de-bretagne-la-plaine-sur-mer"
+        },
+        "stars": 2,
+        "address": {
+            "street": "163, Boulevard de la Tara",
+            "postalCode": "44770",
+            "city": "La Plaine-sur-Mer"
+        }
+    }
+}, {
+    "hotel Name ": "Assiette Champenoise",
+    "hotel Price": "185.50",
+    "Resaurant": {
+        "name": "Assiette Champenoise",
+        "category": "Cuisine Moderne, Créative, Gastronomique, Végétarien",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2cliodi/assiette-champenoise-tinqueux"
+        },
+        "stars": 3,
+        "address": {
+            "street": "à Tinqueux, 40 av. Paul Vaillant-Couturier",
+            "postalCode": "51430",
+            "city": "Tinqueux"
+        }
+    }
+}, {
+    "hotel Name ": "Auberge des Templiers",
+    "hotel Price": "112.20",
+    "Resaurant": {
+        "name": "Auberge des Templiers",
+        "category": "Cuisine Moderne, Créative, Gastronomique, Végétarien",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2bicgcl/auberge-des-templiers-les-bezards"
+        },
+        "stars": 1,
+        "address": {
+            "street": "D2007",
+            "postalCode": "45290",
+            "city": "Les Bézards"
+        }
+    }
+}, {
+    "hotel Name ": "Château Cordeillan-Bages",
+    "hotel Price": "170.00",
+    "Resaurant": {
+        "name": "Château Cordeillan-Bages",
+        "category": "Cuisine Moderne, Créative, Gastronomique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2chq5p0/chateau-cordeillan-bages-pauillac"
+        },
+        "stars": 1,
+        "address": {
+            "street": "Route des châteaux",
+            "postalCode": "33250",
+            "city": "Pauillac"
+        }
+    }
+}, {
+    "hotel Name ": "Château de la Treyne",
+    "hotel Price": "250.00",
+    "Resaurant": {
+        "name": "Château de la Treyne",
+        "category": "Traditionnel, Classique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2c38ubh/chateau-de-la-treyne-lacave"
+        },
+        "stars": 1,
+        "address": {
+            "street": "",
+            "postalCode": "46200",
+            "city": "Lacave"
+        }
+    }
+}, {
+    "hotel Name ": "Domaine de Rochevilaine",
+    "hotel Price": "192.00",
+    "Resaurant": {
+        "name": "Domaine de Rochevilaine",
+        "category": "Cuisine Moderne, Créative, Traditionnel, Classique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2bij0t1/domaine-de-rochevilaine-billiers"
+        },
+        "stars": 1,
+        "address": {
+            "street": "à la Pointe de Pen Lan",
+            "postalCode": "56190",
+            "city": "Billiers"
+        }
+    }
+}, {
+    "hotel Name ": "Flocons de Sel",
+    "hotel Price": "430.00",
+    "Resaurant": {
+        "name": "Flocons de Sel",
+        "category": "Cuisine Moderne, Créative, Végétarien, Végétalien",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/29wzk9t/flocons-de-sel-megeve"
+        },
+        "stars": 3,
+        "address": {
+            "street": "1775 rte du Leutaz",
+            "postalCode": "74120",
+            "city": "Megève"
+        }
+    }
+}, {
+    "hotel Name ": "Hostellerie de Levernois",
+    "hotel Price": "150.00",
+    "Resaurant": {
+        "name": "Hostellerie de Levernois",
+        "category": "Cuisine Moderne, Créative",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/28updvu/hostellerie-de-levernois-levernois"
+        },
+        "stars": 1,
+        "address": {
+            "street": "rue du Golf",
+            "postalCode": "21200",
+            "city": "Levernois"
+        }
+    }
+}, {
+    "hotel Name ": "Hostellerie de Plaisance",
+    "hotel Price": "280.00",
+    "Resaurant": {
+        "name": "Hostellerie de Plaisance",
+        "category": "Cuisine Moderne, Créative, Gastronomique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2cp6y7n/hostellerie-de-plaisance-saint-emilion"
+        },
+        "stars": 2,
+        "address": {
+            "street": "5 place du Clocher",
+            "postalCode": "33330",
+            "city": "Saint-Emilion"
+        }
+    }
+}, {
+    "hotel Name ": "L'Auberge Basque",
+    "hotel Price": "101.15",
+    "Resaurant": {
+        "name": "L'Auberge Basque",
+        "category": "Cuisine Moderne, Créative, Traditionnel, Classique, Végétarien",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2efx4u4/lauberge-basque-saint-pee-sur-nivelle"
+        },
+        "stars": 1,
+        "address": {
+            "street": "quartier Helbarron",
+            "postalCode": "64310",
+            "city": "Saint-Pée-sur-Nivelle"
+        }
+    }
+}, {
+    "hotel Name ": "La Bastide de Capelongue",
+    "hotel Price": "113.00",
+    "Resaurant": {
+        "name": "La Bastide de Capelongue",
+        "category": "Cuisine Moderne, Créative",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2bj1jms/la-bastide-de-capelongue-bonnieux"
+        },
+        "stars": 2,
+        "address": {
+            "street": "Chemin des Cabanes",
+            "postalCode": "84480",
+            "city": "Bonnieux"
+        }
+    }
+}, {
+    "hotel Name ": "La Bonne Étape",
+    "hotel Price": "158.00",
+    "Resaurant": {
+        "name": "La Bonne Étape",
+        "category": "Provençal, Cuisine Moderne, Créative, Traditionnel, Classique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2bp5jf6/la-bonne-etape-chateau-arnoux"
+        },
+        "stars": 1,
+        "address": {
+            "street": "chemin du lac",
+            "postalCode": "04160",
+            "city": "Château-Arnoux"
+        }
+    }
+}, {
+    "hotel Name ": "L'Auberge Basque",
+    "hotel Price": "101.15",
+    "Resaurant": {
+        "name": "L'Auberge Basque",
+        "category": "Cuisine Moderne, Créative, Traditionnel, Classique, Végétarien",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2efx4u4/lauberge-basque-saint-pee-sur-nivelle"
+        },
+        "stars": 1,
+        "address": {
+            "street": "quartier Helbarron",
+            "postalCode": "64310",
+            "city": "Saint-Pée-sur-Nivelle"
+        }
+    }
+}, {
+    "hotel Name ": "La Bastide de Capelongue",
+    "hotel Price": "113.00",
+    "Resaurant": {
+        "name": "La Bastide de Capelongue",
+        "category": "Cuisine Moderne, Créative",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2bj1jms/la-bastide-de-capelongue-bonnieux"
+        },
+        "stars": 2,
+        "address": {
+            "street": "Chemin des Cabanes",
+            "postalCode": "84480",
+            "city": "Bonnieux"
+        }
+    }
+}, {
+    "hotel Name ": "La Bonne Étape",
+    "hotel Price": "158.00",
+    "Resaurant": {
+        "name": "La Bonne Étape",
+        "category": "Provençal, Cuisine Moderne, Créative, Traditionnel, Classique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2bp5jf6/la-bonne-etape-chateau-arnoux"
+        },
+        "stars": 1,
+        "address": {
+            "street": "chemin du lac",
+            "postalCode": "04160",
+            "city": "Château-Arnoux"
+        }
+    }
+}, {
+    "hotel Name ": "Le Vieux Logis",
+    "hotel Price": "170.00",
+    "Resaurant": {
+        "name": "Le Vieux Logis",
+        "category": "Cuisine Moderne, Créative, Traditionnel, Classique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2cz3yz2/le-vieux-logis-tremolat"
+        },
+        "stars": 1,
+        "address": {
+            "street": "Le Bourg",
+            "postalCode": "24510",
+            "city": "Trémolat"
+        }
+    }
+}, {
+    "hotel Name ": "Les Hautes Roches",
+    "hotel Price": "165.00",
+    "Resaurant": {
+        "name": "Les Hautes Roches",
+        "category": "Traditionnel, Classique, Cuisine Moderne, Créative, Gastronomique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2cyg6yb/les-hautes-roches-rochecorbon"
+        },
+        "stars": 1,
+        "address": {
+            "street": "86 quai de Loire",
+            "postalCode": "37210",
+            "city": "Rochecorbon"
+        }
+    }
+}, {
+    "hotel Name ": "Maison Decoret",
+    "hotel Price": "117.81",
+    "Resaurant": {
+        "name": "Maison Decoret",
+        "category": "Cuisine Moderne, Créative, Gastronomique, Végétarien",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2b7zqic/maison-decoret-vichy"
+        },
+        "stars": 1,
+        "address": {
+            "street": "15 rue du Parc",
+            "postalCode": "03200",
+            "city": "Vichy"
+        }
+    }
+}, {
+    "hotel Name ": "Maison Lameloise",
+    "hotel Price": "180.00",
+    "Resaurant": {
+        "name": "Maison Lameloise",
+        "category": "Cuisine Moderne, Créative, Gastronomique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2bnef6m/maison-lameloise-chagny"
+        },
+        "stars": 3,
+        "address": {
+            "street": "36 pl. d'Armes",
+            "postalCode": "71150",
+            "city": "Chagny"
+        }
+    }
+}, {
+    "hotel Name ": "Michel Trama",
+    "hotel Price": "220.00",
+    "Resaurant": {
+        "name": "Michel Trama",
+        "category": "Cuisine Moderne, Créative",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2ckuncq/michel-trama-puymirol"
+        },
+        "stars": 2,
+        "address": {
+            "street": "52 rue Royale",
+            "postalCode": "47270",
+            "city": "Puymirol"
+        }
+    }
+}, {
+    "hotel Name ": "Relais de la Poste",
+    "hotel Price": "162.00",
+    "Resaurant": {
+        "name": "Relais de la Poste",
+        "category": "Traditionnel, Classique, Gastronomique",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/2c6dfrz/relais-de-la-poste-magescq"
+        },
+        "stars": 2,
+        "address": {
+            "street": "24 avenue de Maremne",
+            "postalCode": "40140",
+            "city": "Magescq"
+        }
+    }
+}, {
+    "hotel Name ": "Villa René Lalique",
+    "hotel Price": -1,
+    "Resaurant": {
+        "name": "Villa René Lalique",
+        "category": "Cuisine Moderne, Créative, Gastronomique, Végétarien",
+        "urls": {
+            "michelin": "https://restaurant.michelin.fr/t645yf86/villa-rene-lalique-wingen-sur-moder"
+        },
+        "stars": 2,
+        "address": {
+            "street": "18 Rue Bellevue",
+            "postalCode": "67290",
+            "city": "Wingen-sur-Moder"
+        }
+    }
+}]
